@@ -1,0 +1,25 @@
+{
+  "extensions": {
+    "recommendations": ["James-Yu.latex-workshop", "valentjn.vscode-ltex"],
+    "unwantedRecommendations": []
+  },
+  "folders": [
+    {
+      "path": "PROJECTS/IOT"
+    },
+      {
+      "path": "PROJECTS/SIMULATION"
+    },
+      {
+      "path": "PROJECTS/VT"
+    },
+    {
+      "name": "writing_and_documentations (root)",
+      "path": "."
+    }
+  ],
+  "settings": {
+    "editor.wordWrap": "on",
+    "files.autoSave": "afterDelay"
+  }
+}
