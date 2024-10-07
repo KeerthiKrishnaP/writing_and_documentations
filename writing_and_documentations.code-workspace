@@ -5,16 +5,19 @@
   },
   "folders": [
     {
-      "path": "PROJECTS/IOT"
-    },
-      {
-      "path": "PROJECTS/SIMULATION"
-    },
-      {
-      "path": "PROJECTS/VT"
+      "path": "IOT"
     },
     {
-      "name": "writing_and_documentations (root)",
+      "path": "SIMULATION/continuous_simulation"
+    },
+    {
+      "path": "SIMULATION/discrete_simulation"
+    },
+    {
+      "path": "VT"
+    },
+    {
+      "name": "writing_and_documentations (rot)",
       "path": "."
     }
   ],
